@@ -1,0 +1,14 @@
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\bin\Release\netcoreapp2.1\VBApi.deps.json
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\bin\Release\netcoreapp2.1\VBApi.runtimeconfig.json
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\bin\Release\netcoreapp2.1\VBApi.runtimeconfig.dev.json
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\bin\Release\netcoreapp2.1\VBApi.dll
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\bin\Release\netcoreapp2.1\VBApi.pdb
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.csproj.CoreCompileInputs.cache
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.RazorAssemblyInfo.cache
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.RazorAssemblyInfo.cs
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.AssemblyInfoInputs.cache
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.AssemblyInfo.cs
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.dll
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.pdb
