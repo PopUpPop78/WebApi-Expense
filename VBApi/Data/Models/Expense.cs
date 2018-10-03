@@ -26,13 +26,7 @@ namespace VBApi.Data.Models
 		public string Currency { get; set; }
 
         [MaxLength(50)]
-		public string ExpenseType { get; set; }
-
-        [NotMapped]
-        public string Status { get; set; }
-
-        [NotMapped]
-        public bool InError { get; set; }
+        public string ExpenseType { get; set; }
 
     }
 }

@@ -63,13 +63,11 @@ namespace VBApi.Controllers
             // Update amount if the expense is already added
             if (primaryExpense == null)
             {
-                expense.Status = "Added";
                 context.Expenses.Add(expense);
             }
             else
             {
                 expense.Id = primaryExpense.Id;
-                expense.Status = "Updated";
                 expense.Amount = expense.Amount;
             }
 
@@ -94,7 +92,7 @@ namespace VBApi.Controllers
 
         // DELETE: api/Expenses/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteExpense([FromRoute] int id)
+        public async Task<IActionResult> DeleteExpense([FromRoute] int Id)
         {
             if (!ModelState.IsValid)
             {
@@ -103,7 +101,10 @@ namespace VBApi.Controllers
                 return BadRequest(ModelState);
             }
 
-            var expense = await context.Expenses.FindAsync(id);
+            // Find expense by primary keys
+            var expense = (from x in context.Expenses
+                                  where x.Id == Id
+                                  select x).FirstOrDefault();
 
             if (expense == null)
             {
