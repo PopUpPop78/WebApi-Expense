@@ -8,7 +8,7 @@
       http://localhost:5000/api/expenses, or      
       https://localhost:5001/api/expenses
      
-     (b) Open VBApi.sln file in Visual studio 
+     (b) Open VBApi.sln file in Visual studio run in debug mode
   
     request url: 
       
