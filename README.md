@@ -14,4 +14,6 @@
       http://localhost:62710/api/expenses, or      
       amend the lauchSettings.json in the dependencies
       
-## (c) Change the SQL connection string to your connection string
+## (c) Change the SQL connection string to your connection string in teh appsetting.json
+    
+    "DefaultConnection":"<your connection string>"
