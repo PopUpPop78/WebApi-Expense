@@ -11,3 +11,4 @@ C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcore
 C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.RazorTargetAssemblyInfo.cache
 C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.dll
 C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.pdb
+C:\Users\Jason\Desktop\Me\Development\VB Project\VBApi\VBApi\obj\Release\netcoreapp2.1\VBApi.csprojAssemblyReference.cache

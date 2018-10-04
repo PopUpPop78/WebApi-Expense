@@ -1,9 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 using VBApi.Data.Models;
 
 
@@ -23,6 +19,7 @@ namespace VBApi.Data
             modelBuilder.Entity<Expense>()
                 .Property(p => p.Id)
                 .ValueGeneratedOnAdd();
+
 
             // Takes care of schema information
             modelBuilder.Entity<Expense>()
