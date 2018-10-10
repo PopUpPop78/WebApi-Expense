@@ -14,6 +14,8 @@
       http://localhost:62710/api/expenses, or      
       amend the lauchSettings.json in the dependencies
       
-## (c) Change the SQL connection string to your connection string in teh appsetting.json
+## (c) Change the SQL connection string to your connection string in the appsetting.json
     
     "DefaultConnection":"<your connection string>"
+    
+## (d) Create table matching the model Expense in SQL server (auto-increment Id colum)
